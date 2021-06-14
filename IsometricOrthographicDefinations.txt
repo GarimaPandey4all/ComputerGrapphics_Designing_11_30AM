@@ -1,0 +1,6 @@
+Orthographic projection, common method of representing three-dimensional objects, usually by three two-dimensional drawings in each of which the object is viewed along parallel lines that are perpendicular to the plane of the drawing.
+
+Isometric projection is a method for visually representing three-dimensional objects in two dimensions in technical and engineering drawings.
+
+
+
